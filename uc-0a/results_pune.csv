@@ -1,6 +1,6 @@
 complaint_id,category,priority,reason,flag
 PM-202401,Pothole,Standard,Classified as Pothole because description refers to 'pothole'.,
-PM-202402,Pothole,Urgent,Classified as Pothole based on 'pothole'; marked Urgent due to severity keyword 'child'.,
+PM-202402,Pothole,Urgent,Classified as Pothole based on 'pothole'; marked Urgent due to severity keyword 'children'.,
 PM-202406,Flooding,Standard,Classified as Flooding because description refers to 'flooded'.,
 PM-202408,Flooding,Standard,"Classified as Flooding because description refers to 'flooded, drain'.",NEEDS_REVIEW
 PM-202410,Streetlight,Standard,Classified as Streetlight because description refers to 'streetlights'.,
